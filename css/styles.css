@@ -24,14 +24,22 @@ body{
 }
 
 
-nav{
+nav, footer{
     display: flex;
     padding: 1.1875rem 1.25rem;
     flex-direction: row;
     justify-content: space-between;
-    gap: 0.625rem;
+    gap: 2rem;
     flex-shrink: 0;
     background: #2E4057;
+    max-height: 5rem;
+}
+
+.logoer{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
 }
 
 a{
@@ -40,7 +48,7 @@ a{
     align-items: flex-start;
     padding: 0.5rem 0.9rem;
     box-shadow: -6px -6px 0px 0px rgba(255, 255, 255, 0.50), 6px 6px 0px 0px rgba(0, 0, 0, 0.50);
-    max-width: 100%;
+    max-height: 2rem;
 }
 
 main{
@@ -122,4 +130,14 @@ p{
 .profile{
     margin-top: 0.5rem;
     max-width: 100%;
+}
+
+.logoer img{
+    max-width: 100%;
+
+}
+
+footer{
+
+    justify-content: center;
 }
