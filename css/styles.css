@@ -100,7 +100,6 @@ p{
     background-color: #2E4057;
     padding: 0.5rem;
     box-shadow: -6px -6px 0px 0px rgba(255, 255, 255, 0.50), 6px 6px 0px 0px rgba(0, 0, 0, 0.50);
-    max-width: 340px;
 }
 
 .orange{
@@ -127,7 +126,9 @@ p{
     gap: 2rem;
     margin: 2rem 0;
 }
-
+.talere .tab{
+    max-width: 368px;
+}
 .profile{
     margin-top: 0.5rem;
     max-width: 100%;
