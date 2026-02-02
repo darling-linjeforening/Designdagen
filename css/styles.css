@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: #f2715f;
-    font-family: "Poppis", Arial, Helvetica, sans-serif;
+    font-family: Poppis, Arial, Helvetica, sans-serif;
     overflow-y: auto;
 }
 
@@ -147,5 +147,6 @@ footer{
     text-align: center;
     max-height: 100%;
 }
+
 
 
