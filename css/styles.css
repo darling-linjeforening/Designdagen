@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #E39A52;
+    background-color: #f2715f;
     font-family: "Poppis", Arial, Helvetica, sans-serif;
     overflow-y: auto;
 }
@@ -61,7 +61,7 @@ main{
 
 h1, h3{
     margin: 0.5rem 0;
-    background-color: #C6C6C6;
+    background-color: #eeeeee;
     padding: 0.5rem 0.9rem;
 }
 
@@ -147,4 +147,5 @@ footer{
     text-align: center;
     max-height: 100%;
 }
+
 
