@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: #E39A52;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Poppis", Arial, Helvetica, sans-serif;
     overflow-y: auto;
 }
 
@@ -103,7 +103,7 @@ p{
 }
 
 .orange{
-    background-color: #E39A52;
+    background-color: #f2715f;
     color: #2E4057;
     padding: 0.2rem;
 
@@ -147,3 +147,4 @@ footer{
     text-align: center;
     max-height: 100%;
 }
+
