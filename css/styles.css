@@ -67,6 +67,8 @@ h1, h3{
 
 h1{
     font-size: 2rem;
+    background-color: none;
+    color: #f2715f;
 }
 
 h2{
@@ -148,6 +150,7 @@ footer{
     text-align: center;
     max-height: 100%;
 }
+
 
 
 
