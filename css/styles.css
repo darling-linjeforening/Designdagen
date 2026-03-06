@@ -103,7 +103,7 @@ p{
 }
 
 .orange{
-    background-color: #f2715f;
+    background: linear-gradient(to right, #F9AEA0, #EE725D);
     color: #2E4057;
     padding: 0.2rem;
 
@@ -148,6 +148,7 @@ footer{
     text-align: center;
     max-height: 100%;
 }
+
 
 
 
